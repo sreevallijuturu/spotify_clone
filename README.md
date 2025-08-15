@@ -49,6 +49,11 @@ This is a practice which i have done in my delta 7.0 apna college course.
 
 Developed with ❤️ by Juturu Sreevalli
 
+![spotify clone](https://github.com/sreevallijuturu/spotify_clone/blob/main/Screenshot%202025-08-16%20010734.png)
+
+
+
+
 
 
 
